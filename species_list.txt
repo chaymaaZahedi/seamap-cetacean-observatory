@@ -1,0 +1,104 @@
+0
+Balaenoptera physalus
+Balaenoptera musculus
+Balaenoptera borealis
+Physeter macrocephalus
+Megaptera novaeangliae
+Hyperoodon ampullatus
+Eubalaena glacialis
+Trichechus manatus latirostris
+Hydrurga leptonyx
+Balaenoptera
+Delphinus
+Delphinus delphis
+Cetacea
+Tursiops truncatus
+Globicephala macrorhynchus
+Stenella attenuata
+Mesoplodon
+Kogia
+Stenella coeruleoalba
+Orcinus orca
+Steno bredanensis
+Kogia sima
+Stenella longirostris
+Ziphius
+Stenella longirostris orientalis
+Grampus griseus
+Ziphius cavirostris
+Lagenodelphis hosei
+Balaenoptera edeni
+Globicephala
+Pseudorca crassidens
+Mesoplodon densirostris
+Feresa attenuata
+Peponocephala electra
+Stenella attenuata graffmani
+Indopacetus pacificus
+Kogia breviceps
+Balaenoptera acutorostrata
+Lagenorhynchus obliquidens
+Lagenorhynchus obscurus
+Mesoplodon peruvianus
+Delphinus capensis
+Eschrichtius robustus
+Lagenorhynchus australis
+Globicephala melas
+Cystophora cristata
+Eubalaena australis
+Lobodon carcinophaga
+Phocoena phocoena
+Lissodelphis borealis
+Phocoenoides dalli
+Hyperoodontidae
+Zalophus californianus
+Leptonychotes weddellii
+Berardius arnuxii
+Balaenoptera brydei
+Balaena mysticetus
+Delphinidae
+Stenella frontalis
+Tursiops
+Sotalia guianensis
+Lagenorhynchus albirostris
+Phocidae
+Lagenorhynchus
+Phoca vitulina
+Lagenorhynchus acutus
+Halichoerus grypus
+Cephalorhynchus heavisidii
+Callorhinus ursinus
+Mirounga angustirostris
+Berardius bairdii
+Phocoenidae
+Otariidae
+Balaenopteridae
+Mysticeti
+Cephalorhynchus eutropia
+Tursiops truncatus ponticus
+Delphinus delphis ponticus
+Sousa plumbea
+Trichechus manatus manatus
+Phocoena phocoena relicta
+Cephalorhynchus commersonii
+Balaenoptera omurai
+Odontoceti
+Cephalorhynchus hectori
+Hyperoodon planifrons
+Enhydra lutris
+Delphinapterus leucas
+Odobenus rosmarus
+Erignathus barbatus
+Pusa hispida
+Mirounga leonina
+Eumetopias jubatus
+Otaria flavescens
+Arctocephalus gazella
+Ursus maritimus
+Pagophilus groenlandicus
+Ommatophoca rossii
+Lagenorhynchus cruciger
+Monodon monoceros
+Orcaella brevirostris
+Sotalia fluviatilis
+Inia geoffrensis

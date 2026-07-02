@@ -1,0 +1,13 @@
+pandas
+geopandas
+beautifulsoup4
+requests
+pyogrio
+numpy
+fiona
+streamlit
+plotly
+folium
+streamlit-folium
+scipy
+shapely

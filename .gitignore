@@ -1,0 +1,29 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Logs and temporary execution files
+logs/
+*.log
+anomalies_group_size.txt
+deleted_anomalies.txt
+
+# Data Files (large files that should not be pushed to GitHub)
+*.csv
+*.gdb/
+
+# Keep folders structure but ignore files inside
+!**/data_source/**/.gitkeep
+!**/gold_data/**/.gitkeep
+!**/logs/**/.gitkeep
