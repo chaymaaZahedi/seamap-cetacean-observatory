@@ -72,11 +72,29 @@ cd seamap-cetacean-observatory
 pip install -r requirements.txt
 ```
 
-### 4. Lancer le Dashboard Streamlit
+### 4. Télécharger les données (requis)
+Pour que l'application puisse tourner, vous devez télécharger et extraire les jeux de données (fichiers CSV de `gold_data/` et `data_source/`). Un script d'automatisation est fourni :
+```bash
+python download_data.py
+```
+
+### 5. Lancer le Dashboard Streamlit
 ```bash
 streamlit run main.py
 ```
 Le tableau de bord s'ouvrira automatiquement dans votre navigateur par défaut à l'adresse `http://localhost:8501`.
+
+---
+
+## 💾 Gestion et mise à jour des données (Pour le mainteneur)
+
+Pour mettre à jour les données partagées ou si vous configurez ce projet pour la première fois :
+1. Compressez vos dossiers `data_source/` et `gold_data/` dans une archive nommée `data.zip`.
+2. Importez ce fichier `data.zip` sur votre Google Drive.
+3. Partagez le fichier en mode **"Tous les utilisateurs disposant du lien"** (lecteur).
+4. Récupérez l'ID du fichier dans le lien de partage (ex: si le lien est `https://drive.google.com/file/d/XYZ123/view`, l'ID est `XYZ123`).
+5. Ouvrez le fichier [download_data.py](file:///c:/MyPc/master/s4/stage-ird/dashboard/seamap-cetacean-observatory/download_data.py) et modifiez la variable `GOOGLE_DRIVE_FILE_ID` avec votre ID.
+
 
 ---
 

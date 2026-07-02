@@ -22,6 +22,8 @@ deleted_anomalies.txt
 # Data Files (large files that should not be pushed to GitHub)
 *.csv
 *.gdb/
+*.zip
+
 
 # Keep folders structure but ignore files inside
 !**/data_source/**/.gitkeep
