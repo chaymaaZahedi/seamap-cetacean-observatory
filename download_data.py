@@ -2,11 +2,7 @@ import os
 import zipfile
 import requests
 
-# ID de votre fichier partagé sur Google Drive
-# Remplacez cette valeur par l'ID réel de votre fichier data.zip sur Google Drive
-# Exemple d'URL de partage : https://drive.google.com/file/d/1A2b3C4d5E6fG7hI8jK9lMnOpQrStUvWx/view?usp=sharing
-# L'ID est : 1A2b3C4d5E6fG7hI8jK9lMnOpQrStUvWx
-GOOGLE_DRIVE_FILE_ID = "VOTRE_ID_DE_FICHIER_GOOGLE_DRIVE"
+GOOGLE_DRIVE_FILE_ID = "1MXZTrKnhVixcn2OWHV35u4YtvFLBKchz"
 
 def get_confirm_token(response):
     """Récupère le jeton de confirmation pour les gros fichiers Google Drive."""
