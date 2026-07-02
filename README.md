@@ -120,4 +120,3 @@ Pour exécuter manuellement une synchronisation ou un nettoyage :
 ```bash
 python ETL_v6.py
 ```
-*(Remarque : les gros fichiers CSV générés dans `gold_data/` et `data_source/` sont configurés pour être ignorés par Git afin d'optimiser le dépôt sur GitHub).*
